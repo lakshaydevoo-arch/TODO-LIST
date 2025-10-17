@@ -77,5 +77,5 @@ todo-list-python/
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+*Lakshya SHarma**  
 A beginner-friendly project to kickstart your journey into **Python and data handling**.
